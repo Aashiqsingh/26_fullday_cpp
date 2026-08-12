@@ -1,0 +1,31 @@
+CPP --> programming language.
+
+
+Programming language:programmming language is a set of instructions given to computer to perform a specif task.
+
+C  --> POPS : procedure oriented programming style
+CPP --> OOPS : Object Oriented Programming Style
+
+
+Cpp is a superset of C language.
+
+
+C++ history : 
+CPP - 1979 --> C with class
+CPP - 1983 --> bjarne stroustrup
+
+
+
+iostream : input output stream
+istream : input stream
+ostream : output stream
+
+
+
+Datatypes :
+int 
+float 
+char
+double
+string 
+bool : true or false
