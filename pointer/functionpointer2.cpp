@@ -18,6 +18,7 @@ int main()
     void(*p)();
 
     if(file == "test"){
+        // test()
         p = test;
     }
     else{
