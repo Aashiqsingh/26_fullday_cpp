@@ -1,1 +1,9 @@
 
+Create a mobile structure with the given data members.
+The input() function should take the following details from the user:
+Mobile ID
+Brand
+Model
+Price
+The display() function should display all mobile details.
+The checkPrice() function should display the mobile category based on its price:
