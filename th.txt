@@ -35,3 +35,8 @@ Data hiding : access specifier
 1. public 
 2. private
 3. protected
+
+
+
+Friend Defination :
+A friend function is a function that is not a member of a class, but it is allowed to access the private and protected members of that class.
