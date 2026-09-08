@@ -9,11 +9,6 @@ class Facebook{
 
 
     void display();
-
-    
-    
-    
-
 };
 
 // void display()
