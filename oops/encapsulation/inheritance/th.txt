@@ -1,0 +1,58 @@
+3)inheritance : acquiring the properties from parent class to child class
+
+
+inheritance:
+child class can use the properties of parent class this process is called inheritance, but parent class 
+can't use the properties of child class
+
+
+class Car{
+    data member -- 10
+    member fun - 5
+}
+
+class SportsCar: public Car{
+    data member -- 20
+    member fun - 10
+}
+
+Parent class --> old class --> super class --> base class
+
+Child class --> new class --> sub class --> derived class
+
+
+
+class ChildClassname : access specifier BaseClass
+
+Types of Inheritance:
+1. Single Inheritance
+         A - Base class
+         |
+         B - Derived class
+2. multilevel Inheritance
+         A - Base class
+         |
+         B - Derived class
+         |
+         C - Derived class
+3. multiple inheritance
+         A - Base class
+         |
+         B - Base class
+         |
+         C - derived class
+4. hyrarchical inheritance
+         A - Base class
+         |
+         B - Derived class
+         |
+         C - Another derived class
+5. hybrid inheritance
+
+         A - Base class
+         |
+         B - Derived class
+         |
+         C - another derived class
+         |
+         D - another derived class
