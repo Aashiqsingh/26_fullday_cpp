@@ -1,0 +1,28 @@
+POLYMORPHISM : 
+Poly = Many, Morph = Forms
+Polymorphism = Same name, different behavior
+
+
+Polymorphism in C++ is the ability of one function or interface to perform different behaviors depending on the situation or object.
+
+
+
+There are two types of polymorphism :
+1. compile time polymorphism
+    - function overloading
+    - operator overloading
+2. run time polymorphism
+    - function overridding
+
+
+                    Polymorphism
+                         |
+             ┌───────────┴───────────┐
+             ↓                       ↓
+     Compile-Time               Run-Time
+     (Static)                   (Dynamic)
+         |                          |
+   ┌─────┴─────┐              ┌─────┴─────┐
+   ↓           ↓              ↓           ↓
+Function    Operator       Function    Virtual
+Overloading Overloading    Overriding  Function
