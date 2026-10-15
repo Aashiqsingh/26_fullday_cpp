@@ -11,10 +11,10 @@ class Data{
         this->val=val;
     }
 
-    void operator++()
+    void operator++(int)
     {
-
-        ++val;
+        val++;
+        // ++val;
     }
 
     void operator--()
@@ -35,7 +35,10 @@ int main()
     Data t1(10);
     // ++t1;
     // t1.operator++();
-    t1.operator--();
+    // t1.operator--();
+    // t1.display();
+
+    t1++;
     t1.display();
 
 }
