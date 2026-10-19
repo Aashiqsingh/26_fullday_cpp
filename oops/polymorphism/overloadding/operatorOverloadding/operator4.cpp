@@ -43,3 +43,10 @@ int main()
     // d1.display();
     d3.display();
 }
+
+
+// :: , . , .*
+
+// +7
+// 4 + 7
+// obj.a + obj.b
