@@ -1,8 +1,9 @@
 #include<iostream>
+#include<cstring>
 using namespace std;
 
 class Demo{
-    string name;
+    char name[100];
 
     public:
 
@@ -15,7 +16,10 @@ class Demo{
     Demo operator+(Demo d2)
     {
         Demo d3;
-        d3.name = name+d2.name;  
+        // d3.name = name+d2.name;  
+        strcpy(d3.name,name);
+        strcat(d3.name," ");
+        strcat(d3.name,d2.name);
         
         return d3;
     }
