@@ -40,3 +40,19 @@ Data hiding : access specifier
 
 Friend Defination :
 A friend function is a function that is not a member of a class, but it is allowed to access the private and protected members of that class.
+
+
+Inheritance:
+1. single inheritance
+2. mutilevle inheritance
+3. Multiple inheritance
+4. hyrarchical inheritance
+5. hybrid inheritance 
+
+Constructor:
+1. default Constructor
+2. parameterized constructor
+3. copy constructor
+
+
+Destructor: ~

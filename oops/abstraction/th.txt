@@ -1,0 +1,11 @@
+Abstraction : Abstraction one of the oops concept that hiding the implement details and display only 
+essential details to the user.
+
+How to achiieve Abstraction 
+1. abstract class
+2. with pure virtual function
+
+
+Abstraction class contain atleast one pure virtual function
+
+virtual void display() = 0; 
