@@ -1,6 +1,3 @@
-Name = om
-Age = 18
-Bal = 2000
-Name = tejas
-Age = 19
-Bal = 3000
+Name	Age	Bal
+tejas	19	3000
+om  20  2000
