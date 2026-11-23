@@ -4,8 +4,8 @@ using namespace std;
 class Bank{
     public:
 
-    virtual void deposit(int amount);
-    virtual void withdraw(int amount);
+    virtual void deposit(int amount) = 0;
+    virtual void withdraw(int amount) = 0;
 };
 
 class SBI: public Bank{

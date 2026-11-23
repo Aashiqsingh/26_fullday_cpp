@@ -1,0 +1,6 @@
+Name = om
+Age = 18
+Bal = 2000
+Name = tejas
+Age = 19
+Bal = 3000
